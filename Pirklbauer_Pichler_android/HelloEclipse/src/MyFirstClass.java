@@ -9,7 +9,11 @@ public class MyFirstClass {
 	}
 	
 	public void thisIsANewMethod {
+
 		int i = 2;
+
+		Out.println("This line of coe has been written by Jordan :)")
+
 	}
 	
 }
