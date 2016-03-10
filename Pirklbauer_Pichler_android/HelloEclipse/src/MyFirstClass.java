@@ -6,4 +6,9 @@ public class MyFirstClass {
 		Out.println("Hello Eclipse File!");
 		Out.close();
 	}
+	
+	public void thisIsANewMethod {
+		
+	}
+	
 }
