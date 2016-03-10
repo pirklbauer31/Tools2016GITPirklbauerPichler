@@ -9,7 +9,7 @@ public class MyFirstClass {
 	}
 	
 	public void thisIsANewMethod {
-		
+		int i = 2;
 	}
 	
 }
