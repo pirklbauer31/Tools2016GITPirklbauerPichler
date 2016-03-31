@@ -13,6 +13,7 @@ public class MyFirstClass {
 		int i = 2;
 
 		Out.println("This line of coe has been written by Jordan :)")
+		print("This line fixes one bug");
 
 	}
 	
