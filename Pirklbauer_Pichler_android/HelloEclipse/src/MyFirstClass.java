@@ -15,7 +15,7 @@ public class MyFirstClass {
 		Out.println("This line of coe has been written by Jordan :)");
 
 		Out.println("Im currently working simultaniously with Kevin");
-		
+		Out.println("Im still working on this while Kevin is also");
 	}
 	
 }
