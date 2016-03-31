@@ -12,8 +12,10 @@ public class MyFirstClass {
 
 		int i = 2;
 
-		Out.println("This line of coe has been written by Jordan :)")
+		Out.println("This line of coe has been written by Jordan :)");
 
+		Out.println("Im currently working simultaniously with Kevin");
+		
 	}
 	
 }
